@@ -1,2 +1,2 @@
 # Tutorial-Ideapad
-Ideas to attempt and the Hello World tutorial.
+hi! im giliforge! i like to code and play video games!
